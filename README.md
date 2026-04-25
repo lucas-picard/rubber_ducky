@@ -31,7 +31,7 @@ Ce script attend 1 seconde, écrit **Hello World**, puis appuie sur Entrée.
 
 ---
 
-## 🛠 Créer un script
+##  Créer un script
 
 Les scripts se font généralement dans un fichier texte avec une syntaxe simple.
 
@@ -62,6 +62,6 @@ Ils peuvent servir de base pour créer vos propres scripts et comprendre le fonc
 
 ---
 
-## ⚠️ Important
+## Important
 
 À utiliser uniquement sur **vos propres appareils**.
