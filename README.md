@@ -12,7 +12,7 @@ Elle est souvent utilisée pour :
 - faire des démonstrations
 - apprendre le fonctionnement des macros clavier
 
----
+-
 
 ##  Comment ça fonctionne
 
