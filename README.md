@@ -14,7 +14,7 @@ Elle est souvent utilisée pour :
 
 ---
 
-## ⚙️ Comment ça fonctionne
+##  Comment ça fonctionne
 
 Le principe est simple :  
 la Rubber Ducky envoie une suite d’appuis clavier comme si un utilisateur écrivait au clavier.
