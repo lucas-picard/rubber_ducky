@@ -1,4 +1,4 @@
-# Rubber Ducky ddddddddddddddddddddddddd
+# Rubber Ducky ddddddddd
 
 Ce dossier explique ce qu’est une **Rubber Ducky** et comment créer ses propres scripts.
 
