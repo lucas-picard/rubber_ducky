@@ -1,5 +1,5 @@
 # Rubber Ducky
-a
+
 Ce dossier explique ce qu’est une **Rubber Ducky** et comment créer ses propres scripts.
 
 Une Rubber Ducky est un périphérique USB qui se fait passer pour un **clavier**.  
