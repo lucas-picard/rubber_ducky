@@ -13,7 +13,6 @@ Elle est souvent utilisée pour :
 - apprendre le fonctionnement des macros clavier
 
 
-
 ##  Comment ça fonctionne
 
 Le principe est simple :  
