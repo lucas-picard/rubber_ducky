@@ -1,7 +1,7 @@
 # Rubber Ducky
 
 Ce dossier explique ce qu’est une **Rubber Ducky** et comment créer ses propres scripts.
-d
+
 Une Rubber Ducky est un périphérique USB qui se fait passer pour un **clavier**.  
 Lorsqu’elle est branchée à un ordinateur, elle peut **taper automatiquement une suite de touches et de commandes**.
 
